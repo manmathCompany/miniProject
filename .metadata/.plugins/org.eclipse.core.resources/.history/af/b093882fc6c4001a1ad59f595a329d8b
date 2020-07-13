@@ -75,7 +75,11 @@ public class ContactServiceImpl implements ContactService {
 		return null;
 	}
 
-	
+	/*
+	 * @Override public boolean updateContact(Contact c) {
+	 * 
+	 * return false; }
+	 */
 
 	@Override
 	public String deleteContact(Integer cid) {

@@ -2163,3 +2163,77 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognise
 2020-07-12 11:27:14,704 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-07-12 11:27:14,707 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-07-12 11:27:14,707 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\javaProject\MiniProjectFirstCrudOperation\src\test\resources
+2020-07-13 06:01:19,141 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-07-13 06:01:43,964 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+2020-07-13 06:01:48,444 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 06:01:48,455 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-13 06:01:48,492 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 384 resources
+2020-07-13 06:01:48,750 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 06:01:48,751 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\javaProject\MiniProjectFirstCrudOperation\src\test\resources
+2020-07-13 06:01:52,824 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 06:01:52,873 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-13 06:01:52,882 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-13 06:01:52,885 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 06:01:52,886 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\javaProject\firstMiniProjectinSpringperformingCrudOperation\src\test\resources
+2020-07-13 06:33:28,351 [Worker-4: Creating project "01_loggingTesting"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mn:01_loggingTesting:0.0.1-SNAPSHOT @ F:\java\javaProject\01_loggingTesting\pom.xml.
+2020-07-13 06:33:32,101 [Worker-4: Creating project "01_loggingTesting"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01_loggingTesting/src/main/java
+2020-07-13 06:33:32,103 [Worker-4: Creating project "01_loggingTesting"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01_loggingTesting/src/main/resources
+2020-07-13 06:33:32,104 [Worker-4: Creating project "01_loggingTesting"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01_loggingTesting/src/test/java
+2020-07-13 06:33:32,104 [Worker-4: Creating project "01_loggingTesting"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01_loggingTesting/src/test/resources
+2020-07-13 06:33:33,890 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-13 06:33:33,899 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-13 06:33:33,901 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-13 06:33:33,908 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-13 06:33:57,068 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mn:01_loggingTesting:0.0.1-SNAPSHOT @ F:\java\javaProject\01_loggingTesting\pom.xml.
+2020-07-13 06:33:57,702 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-13 06:33:57,722 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-13 06:33:57,725 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-13 06:33:57,737 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-13 06:33:59,172 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-13 06:33:59,188 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-13 06:33:59,190 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-13 06:33:59,203 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-13 06:34:39,675 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-13 06:34:39,684 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-13 06:34:39,686 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-13 06:34:39,694 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-13 06:43:49,864 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-13 06:43:49,874 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-13 06:43:49,876 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-07-13 06:43:49,883 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-13 10:05:20,396 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:MiniProjectFirstCrudOperation:0.0.1-SNAPSHOT @ F:\java\javaProject\MiniProjectFirstCrudOperation\pom.xml.
+2020-07-13 10:05:23,549 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+2020-07-13 10:05:25,729 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonarsource/scanner/maven/sonar-maven-plugin/3.4.0.905/sonar-maven-plugin-3.4.0.905.pom
+2020-07-13 10:05:26,397 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonarsource/scanner/maven/sonar-maven-plugin/3.4.0.905/sonar-maven-plugin-3.4.0.905.pom
+2020-07-13 10:05:27,027 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonarsource/parent/parent/41/parent-41.pom
+2020-07-13 10:05:27,995 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonarsource/parent/parent/41/parent-41.pom
+2020-07-13 10:05:28,630 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonarsource/scanner/maven/sonar-maven-plugin/3.4.0.905/sonar-maven-plugin-3.4.0.905.jar
+2020-07-13 10:05:29,259 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonarsource/scanner/maven/sonar-maven-plugin/3.4.0.905/sonar-maven-plugin-3.4.0.905.jar
+2020-07-13 10:05:30,219 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jacoco/jacoco-maven-plugin/0.8.1/jacoco-maven-plugin-0.8.1.pom
+2020-07-13 10:05:30,568 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jacoco/jacoco-maven-plugin/0.8.1/jacoco-maven-plugin-0.8.1.pom
+2020-07-13 10:05:31,187 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jacoco/org.jacoco.build/0.8.1/org.jacoco.build-0.8.1.pom
+2020-07-13 10:05:31,835 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jacoco/org.jacoco.build/0.8.1/org.jacoco.build-0.8.1.pom
+2020-07-13 10:05:32,265 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jacoco/jacoco-maven-plugin/0.8.1/jacoco-maven-plugin-0.8.1.jar
+2020-07-13 10:05:32,896 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jacoco/jacoco-maven-plugin/0.8.1/jacoco-maven-plugin-0.8.1.jar
+2020-07-13 10:05:33,981 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+2020-07-13 10:05:34,260 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+2020-07-13 10:05:40,055 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 10:05:40,061 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-13 10:05:40,061 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-13 10:05:40,066 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 10:05:40,067 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\javaProject\MiniProjectFirstCrudOperation\src\test\resources
+2020-07-13 10:05:40,067 [Worker-19: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MiniProjectFirstCrudOperation
+2020-07-13 10:05:40,069 [Worker-19: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MiniProjectFirstCrudOperation
+2020-07-13 10:05:40,078 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 10:08:20,129 [Worker-20: Check for devtools] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+2020-07-13 10:08:34,461 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-07-13 10:09:10,103 [Worker-23: Launching MiniProjectFirstCrudOperation] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\java\javaProject\MiniProjectFirstCrudOperation
+2020-07-13 10:09:10,103 [Worker-23: Launching MiniProjectFirstCrudOperation] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B mvn clean compile package install -Dstyle.color=always
+2020-07-13 10:09:42,740 [Worker-21: Launching Executing install in F__java_javaProject_MiniProjectFirstCrudOperation] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\java\javaProject\MiniProjectFirstCrudOperation
+2020-07-13 10:09:42,740 [Worker-21: Launching Executing install in F__java_javaProject_MiniProjectFirstCrudOperation] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install -Dstyle.color=always
+2020-07-13 10:14:42,034 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-07-13 10:14:59,959 [Worker-23: Launching MiniProjectFirstCrudOperation (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\java\javaProject\MiniProjectFirstCrudOperation
+2020-07-13 10:14:59,959 [Worker-23: Launching MiniProjectFirstCrudOperation (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B mvn sonar:sonar -Dstyle.color=always
+2020-07-13 10:15:44,113 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-07-13 10:15:50,836 [Worker-23: Launching MiniProjectFirstCrudOperation (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\java\javaProject\MiniProjectFirstCrudOperation
+2020-07-13 10:15:50,836 [Worker-23: Launching MiniProjectFirstCrudOperation (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B sonar:sonar -Dstyle.color=always
