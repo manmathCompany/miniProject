@@ -1,0 +1,47 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1" isELIgnored="false"%>
+    
+    <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form" %>
+    
+    <h1 Style="color:green">Save Contact Page</h1>
+    
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>
+    
+    <link rel="stylesheet" href="css/style.css"/>
+    <script src="js/form-validation.js"></script>
+ -->   
+ 
+ <script>
+ function validateForm() {
+	  var x = document.forms["Form"]["name"].value;
+	  if (x == "") {
+	    alert("Name must be required");
+	    return false;
+	  }
+	}
+ </script>
+  
+    <form:form   action="form" method="post" modelAttribute="contact" name="form">
+    <table>
+    <tr>
+    <form:hidden path="contactId"/>
+    <td><b>Contact Name:</b></td> 
+    
+    <td><form:input path="contactName" name="name"/></td>
+    </tr>
+    <tr>
+    <td><b>Contact email:</b></td>
+    <td><form:input path="contactEmail" name="email"/></td>
+    </tr>
+    <tr>
+    <td><b>Contact no:</b></td>
+    <td><form:input path="contactNumber" name="number"/></td>
+    </tr>
+    <tr>
+    <td><input type="submit" value="save"></td>
+    </tr>
+    </table>
+    </form:form>
+    
+    <a href="getall">get all data</a>

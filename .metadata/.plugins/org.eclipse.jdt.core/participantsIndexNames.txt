@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+F:\java\javaProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3981516960.index
+\firstMiniProjectinSpringperformingCrudOperation\src\main\java
+F:\java\javaProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2239030883.index
+\MiniProjectFirstCrudOperation\src\main\java

@@ -1,0 +1,49 @@
+package com.mn.entity;
+
+import java.util.Date;
+
+import javax.annotation.Generated;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.SequenceGenerator;
+import javax.persistence.Table;
+import javax.persistence.Temporal;
+import javax.persistence.TemporalType;
+
+import org.hibernate.annotations.CreationTimestamp;
+import org.hibernate.annotations.UpdateTimestamp;
+
+import lombok.Data;
+
+@Data
+@Table(name="CONTACT_DETAILS")
+@Entity
+public class ContactEntity {
+
+	@Id
+	@SequenceGenerator(name = "contactSeq" ,sequenceName = "CONTACT_ID_SEQ",allocationSize = 1)
+	@GeneratedValue(generator = "contactSeq",strategy = GenerationType.SEQUENCE)
+	@Column(name="CONTACT_ID")
+	Integer contactId;
+	@Column(name="CONTACT_NAME")
+	String contactName;
+	@Column(name="CONTACT_EMAIL")
+	String contactEmail;
+	@Column(name="CONTACT_NUMBER")
+	Long contactNumber;
+	
+	  @Column(name="CREATED_DATE",updatable = false)
+	  @CreationTimestamp
+	  @Temporal(TemporalType.DATE)
+	  Date createdDate;
+	  
+	  @Column(name="UPDATED_DATE",insertable = false)
+	  @UpdateTimestamp
+	  @Temporal(TemporalType.DATE)
+	  Date updatedDate;
+	 
+
+}

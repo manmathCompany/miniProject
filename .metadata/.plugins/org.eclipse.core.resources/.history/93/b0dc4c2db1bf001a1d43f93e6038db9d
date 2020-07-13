@@ -1,0 +1,32 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1" isELIgnored="false"%>
+    
+    <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form" %>
+    
+    <h1 Style="color:green">Save Contact Page</h1>
+    
+    <b>${msg}</b>
+    
+    <form:form  action="form" method="post" modelAttribute="contact">
+    <table>
+    <tr>
+    <form:hidden path="contactId"/>
+    <td><b>Contact Name:</b></td>
+    <td><form:input path="contactName"/></td>
+    <td><form:errors path="contactName" cssClass="error"/></td>
+    </tr>
+    <tr>
+    <td><b>Contact email:</b></td>
+    <td><form:input path="contactEmail"/></td>
+    </tr>
+    <tr>
+    <td><b>Contact no:</b></td>
+    <td><form:input path="contactNumber"/></td>
+    </tr>
+    <tr>
+    <td><input type="submit" value="save"></td>
+    </tr>
+    </table>
+    </form:form>
+    
+    <a href="getall">get all data</a>
